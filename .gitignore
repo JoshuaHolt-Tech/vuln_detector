@@ -165,5 +165,6 @@ cython_debug/
 env.py
 *.csv
 cvelistV5-main/
+cves/
 csv_files/
 pcap_files/
