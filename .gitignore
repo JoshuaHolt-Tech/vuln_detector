@@ -163,6 +163,7 @@ cython_debug/
 *.json
 *.pcap
 env.py
+.virtual_documents/
 *.csv
 cvelistV5-main/
 cves/
